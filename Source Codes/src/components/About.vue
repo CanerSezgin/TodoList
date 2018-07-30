@@ -63,9 +63,10 @@
                 </ul>
 
                 <div class="center-align">
-                    <a class="waves-effect waves-light btn blue darken-4">Source Code</a>
+                    <a class="waves-effect waves-light btn blue darken-4"
+                    href="https://github.com/casedo/TodoList/tree/master/Source%20Codes"
+                    target="_blank">Source Code</a>
                 </div> 
-                </div>  
             </div>
 
             <div class="row">
