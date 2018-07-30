@@ -1,3 +1,7 @@
+<h1>Todo List</h1>
+
+See Project in Browser: https://casedo.github.io/TodoList/
+
 <b>Project Objective</b><br>
 This is a personal task manager that helps you achieve your goals.<br>
 You can plan your projects and related tasks(todos) easily.<br>
@@ -18,4 +22,6 @@ Users can create/delete/manage their own projects & tasks and they can reach the
 This project was not created for commercial use, It is only for my personal portfolio.<br>
 Made with ❤ by <b>Caner SEZGİN</b>
 
+<br>If you determine any error or if you have any advice, Please let me know. <br>
+I pay attention so much to your opinion and suggestion. 
 
