@@ -20,7 +20,7 @@ In order to save user’s projects and todos between sessions, localStorage was 
 Users can create/delete/manage their own projects & tasks and they can reach their personal todo list they want.<br>
 
 This project was not created for commercial use, It is only for my personal portfolio.<br>
-Made with ❤ by <b>Caner SEZGİN</b>
+Made with ❤ by <b>Caner SEZGIN</b>
 
 <br>If you determine any error or if you have any advice, Please let me know. <br>
 I pay attention so much to your opinion and suggestion. 
