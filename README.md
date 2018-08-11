@@ -1,6 +1,6 @@
 <h1>Todo List</h1>
 
-See Project in Browser: https://casedo.github.io/TodoList/
+See Project in Browser: https://CanerSezgin.github.io/TodoList/
 
 <b>Project Objective</b><br>
 This is a personal task manager that helps you achieve your goals.<br>
